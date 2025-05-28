@@ -1,6 +1,4 @@
 HELP.md
-.gradle
-build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -35,3 +33,27 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Java/Spring Boot 관련
+/backend/target/
+/backend/.idea/
+/backend/*.iml
+*.class
+*.jar
+*.war
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Node/React Native 관련
+/frontend/node_modules/
+/frontend/.expo/
+/frontend/dist/
+/frontend/web-build/
+/frontend/ios/
+/frontend/android/
+npm-debug.log
+.env
+.DS_Store

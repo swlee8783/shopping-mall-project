@@ -1,4 +1,4 @@
-package com.example.shoppingmallwebsiteproejct.domain;
+package com.example.shoppingmallwebsiteproject.domain;
 
 import jakarta.persistence.*;
 import lombok.*;

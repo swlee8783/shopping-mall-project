@@ -1,6 +1,6 @@
-package com.example.shoppingmallwebsiteproejct.repository;
+package com.example.shoppingmallwebsiteproject.repository;
 
-import com.example.shoppingmallwebsiteproejct.domain.User;
+import com.example.shoppingmallwebsiteproject.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

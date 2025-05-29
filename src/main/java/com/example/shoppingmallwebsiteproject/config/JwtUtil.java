@@ -1,4 +1,4 @@
-package com.example.shoppingmallwebsiteproejct.config;
+package com.example.shoppingmallwebsiteproject.config;
 
 import io.jsonwebtoken.*;
 import org.springframework.beans.factory.annotation.Value;
